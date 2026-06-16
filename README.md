@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🛡️ Jramone3 | Security Auditor & Researcher
 
-<!--
-**Jramone3/Jramone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome. I am a security auditor focused on **autonomous system resilience** and digital sovereignty. My work blends rigorous traditional auditing with proactive protocol development for AI agents and decentralized systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Track Record & Credibility
+*Consistent development with 6+ months of uninterrupted activity.*
+
+- 🏗️ **Active Repositories:** 13
+- 💻 **Total Commits:** 118+
+- 🔍 **Focus:** Vulnerability Analysis (CVEs), Deserialization Patterns, RCE Mitigation.
+- 🛡️ **Stack:** Security Architecture, Autonomous Systems, InfoSec.
+
+### 🚀 Audit & Verification
+I don't trust the hype. My work is verifiable.
+
+[![LARP Check Verified](https://img.shields.io/badge/LARP%20Check-Verified%20Profile-brightgreen)](https://larpcheck.live/?user=Jramone3)
+[![Humain Passport](https://img.shields.io/badge/Humain%20Passport-Score%20Verified-blue)](https://app.passport.xyz)
+
+> **"Security is not a feature, it's a foundational requirement."**
+
+---
+
+### 💼 Featured Portfolio
+1. **[audit-dossier](https://github.com/Jramone3/audit-dossier):** Open-source framework for resilience in autonomous systems and critical vulnerability mitigation.
+
+---
+
+### 📩 Contact
+For security inquiries, audits, or research collaborations:
+- **Email:** remi.bunker.sys@proton.me
+- **Twitter/X:** [@jramone3](https://x.com/jramone3)
+
+---
+*This profile is fully auditable. View my complete history on [GitHub](https://github.com/Jramone3?tab=repositories).*
