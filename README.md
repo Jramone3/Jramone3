@@ -32,6 +32,7 @@ I don't trust the hype. My work is verifiable.
 ---
 
 ### 💼 Repositorios Destacados (Pinned)
+* **[REMI_Enterprise_Suite](https://github.com/Jramone3/REMI_Enterprise_Suite):** Enterprise-grade agentic custody system and modular multi-agent framework for safeguarding critical assets with continuous monitoring and auditable controls (~70,000 files).
 * **[audit-dossier](https://github.com/Jramone3/audit-dossier):** Open-source framework for resilience in autonomous systems and critical vulnerability mitigation.
 * **[REMI-IA Core](https://github.com/Jramone3/remi-ia-core):** Motor de conciencia digital y resiliencia de datos, integrando visualizaciones y backends robustos.
 * **[remi-authbridge](https://github.com/Jramone3/remi-authbridge):** Demostración funcional de autenticación y trazabilidad patrimonial con Auth0.
